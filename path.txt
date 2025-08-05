@@ -1,0 +1,5 @@
+cd C:\Users\alex_\Desktop\Faculdade\Laboratorio de Programacao\Efolios\Efolio B\efolioB
+
+Tratamentos de erros
+ficheiro de teste de unidade
+relatório
