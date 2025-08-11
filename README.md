@@ -1,4 +1,4 @@
-# Rectangle World – E-Fólio B (21178)
+# Rectangle World 
 
 ## 🧾 Project Overview
 
